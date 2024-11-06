@@ -1,4 +1,4 @@
-mport {namedWayspotComponent} from './named-wayspot'
+import {namedWayspotComponent} from './named-wayspot'
 AFRAME.registerComponent('named-wayspot', namedWayspotComponent)
 
 import {playVpsAnimationComponent} from './vps-animation'
